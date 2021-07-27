@@ -13,7 +13,7 @@
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 /**
- * @file mics4514.h
+ * @file mics4514.c
  * @brief Driver for the mics4514 sensor for stm32.
  */
 
